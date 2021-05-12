@@ -1,0 +1,5 @@
+redentials cache: API:5D0483B2-DF33-428B-82C4-B55142EA8491
+        Principal: smuniand@42KL.EDU.MY
+
+  Issued                Expires               Principal
+Mar 22 17:52:41 2021  Mar 23 03:52:34 2021  krbtgt/42KL.EDU.MY@42KL.EDU.MY
